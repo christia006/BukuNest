@@ -41,7 +41,7 @@ Dirancang agar pengembang dapat dengan mudah membangun aplikasi perpustakaan dig
 
 👉 Klik gambar di bawah untuk menonton demo lengkap aplikasi BukuNest:
 
-[![Tonton Video Presentasi](https://img.youtube.com/vi/KsjL2NAwx3U/0.jpg)](https://youtu.be/KsjL2NAwx3U)
+[![Tonton Video Presentasi]()
 
 
 ---
