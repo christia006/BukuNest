@@ -119,9 +119,9 @@ Dirancang agar pengembang dapat dengan mudah membangun aplikasi perpustakaan dig
 
 ---
 
-## ✅ **Kesimpulan (Bahasa sehari-hari)**
+## ✅ **Kesimpulan **
 
-> “Ini adalah proyek akhir saya bernama **BukuNest**.  
+> “Ini adalah proyek  saya bernama **BukuNest**.  
 > Isinya ada fitur CRUD buku & genre, login register, komentar, dan profile user.  
 > Ada dashboard admin juga supaya mudah ngatur data.  
 > Terima kasih sudah menonton!”
