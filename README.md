@@ -87,7 +87,7 @@ Dirancang agar pengembang dapat dengan mudah membangun aplikasi perpustakaan dig
 ![Tambah Buku](./images/add%20book.png)
 
 **Edit Buku**
-![Edit Buku](./images/edit%20book.png)
+![Edit Buku](./images/edit%20booke.png)
 
 
 ---
@@ -98,7 +98,7 @@ Dirancang agar pengembang dapat dengan mudah membangun aplikasi perpustakaan dig
 ![List Genre](./images/list%20genre.png)
 
 **Tambah Genre**
-![Tambah Genre](./images/add%20genre.png)
+![Tambah Genre](./images/add%20genres.png)
 
 
 ---
@@ -106,7 +106,7 @@ Dirancang agar pengembang dapat dengan mudah membangun aplikasi perpustakaan dig
 ### 💬 Komentar & Detail Buku
 
 **Detail Buku + Komentar**
-![Detail Buku](./images/detail%20book.png)
+![Detail Buku](./images/detail%20bookm.png)
 
 
 ---
