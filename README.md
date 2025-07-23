@@ -84,7 +84,7 @@ Dirancang agar pengembang dapat dengan mudah membangun aplikasi perpustakaan dig
 ![Dashboard](./images/dashboard.png)
 
 **Tambah Buku**
-![Tambah Buku](./images/%20book.png)
+![Tambah Buku](./images/book.png)
 
 **Edit Buku**
 ![Edit Buku](./images/booke.png)
@@ -98,7 +98,7 @@ Dirancang agar pengembang dapat dengan mudah membangun aplikasi perpustakaan dig
 ![List Genre](./images/genre.png)
 
 **Tambah Genre**
-![Tambah Genre](./images/add%20genres.png)
+![Tambah Genre](./images/genres.png)
 
 
 ---
@@ -119,7 +119,7 @@ Dirancang agar pengembang dapat dengan mudah membangun aplikasi perpustakaan dig
 
 ---
 
-## ✅ **Kesimpulan **
+## Kesimpulan 
 
 > “Ini adalah proyek  saya bernama **BukuNest**.  
 > Isinya ada fitur CRUD buku & genre, login register, komentar, dan profile user.  
