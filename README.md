@@ -81,13 +81,13 @@ Dirancang agar pengembang dapat dengan mudah membangun aplikasi perpustakaan dig
 ### 📚 Admin Dashboard & Buku
 
 **Dashboard Admin**
-![Dashboard](./images/admin%20dashboard.png)
+![Dashboard](./images/dashboard.png)
 
 **Tambah Buku**
-![Tambah Buku](./images/add%20book.png)
+![Tambah Buku](./images/%20book.png)
 
 **Edit Buku**
-![Edit Buku](./images/edit%20booke.png)
+![Edit Buku](./images/booke.png)
 
 
 ---
@@ -95,7 +95,7 @@ Dirancang agar pengembang dapat dengan mudah membangun aplikasi perpustakaan dig
 ### 🏷️ Genre
 
 **List Genre**
-![List Genre](./images/list%20genre.png)
+![List Genre](./images/genre.png)
 
 **Tambah Genre**
 ![Tambah Genre](./images/add%20genres.png)
@@ -106,7 +106,7 @@ Dirancang agar pengembang dapat dengan mudah membangun aplikasi perpustakaan dig
 ### 💬 Komentar & Detail Buku
 
 **Detail Buku + Komentar**
-![Detail Buku](./images/detail%20bookm.png)
+![Detail Buku](./images/bookm.png)
 
 
 ---
@@ -114,7 +114,7 @@ Dirancang agar pengembang dapat dengan mudah membangun aplikasi perpustakaan dig
 ### 👤 Profile
 
 **Edit Profil**
-![Edit Profile](./images/edit%20profile.png)
+![Edit Profile](./images/profile.png)
 
 
 ---
