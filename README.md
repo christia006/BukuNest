@@ -7,7 +7,7 @@
 Dirancang agar pengembang dapat dengan mudah membangun aplikasi perpustakaan digital interaktif.*
 
 [![last commit](https://img.shields.io/badge/last%20commit-today-brightgreen)](#)
-[![Laravel](https://img.shields.io/badge/Laravel-10-red?logo=laravel)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-12-red?logo=laravel)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-Relational%20DB-blue?logo=mysql)](#)
 
 *Built with the tools and technologies:*
